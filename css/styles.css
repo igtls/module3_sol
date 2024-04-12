@@ -11,9 +11,10 @@ body {
 
 .boxone {
     background-color: grey;
-    font-size: 14;
-    font-weight: 200;
+    font-size: 18;
+    font-weight: 500;
     color: aliceblue;
+    min-height: 400px;
 }
 
 strong {
